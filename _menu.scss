@@ -34,7 +34,7 @@
             @include transition-ease;
         }
         &.open {
-            transform: rotate(720deg);
+            transform: rotate(810deg);
             background: transparent;
             &::before {
                 transform: rotate(45deg);
