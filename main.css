@@ -62,7 +62,7 @@
   transition: all 0.5s ease-in-out;
 }
 .menu-btn_burger.open {
-  transform: rotate(720deg);
+  transform: rotate(810deg);
   background: transparent;
 }
 .menu-btn_burger.open::before {
